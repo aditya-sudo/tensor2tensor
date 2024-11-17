@@ -52,7 +52,7 @@ setup(
         'gunicorn',
         'gym==0.12.5',
         'gast==0.2.2',
-        'h5py',
+        'h5py>=3.0.0',
         'kfac',
         'mesh-tensorflow',
         'numpy',
@@ -70,7 +70,7 @@ setup(
         'tensorflow-gan',
         'tensorflow-probability==0.8.0',
         'tf_slim',
-        'cloudpickle==1.1.1',
+        'cloudpickle>=2.0.0',
         'tqdm',
     ],
     extras_require={
