@@ -65,7 +65,7 @@ setup(
         'six>=1.12.0',
         'sympy',
         'tensorflow-addons',
-        'tensorflow==2.1.0',
+        'tensorflow==2.8.0',
         'tensorflow-datasets',
         'tensorflow-gan',
         'tensorflow-probability==0.8.0',
