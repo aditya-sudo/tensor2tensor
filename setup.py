@@ -70,7 +70,7 @@ setup(
         'tensorflow-gan',
         'tensorflow-probability==0.8.0',
         'tf_slim',
-        'cloudpickle>=2.0.0',
+        'cloudpickle',
         'tqdm',
     ],
     extras_require={
