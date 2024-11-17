@@ -70,8 +70,9 @@ setup(
         'tensorflow-gan',
         'tensorflow-probability==0.8.0',
         'tf_slim',
-        'cloudpickle',
+        'cloudpickle>=2.0.0',
         'tqdm',
+        'typeguard>=4.0.1'
     ],
     extras_require={
         'tensorflow': ['tensorflow>=1.15.0'],
